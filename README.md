@@ -1,6 +1,6 @@
 <img src="images/svg/header_en.svg"></img>
 
-### :space_invader: &nbsp;About Me
+### :space_invader: &nbsp;About Me!
 
 &nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently studying Data Science in [Universidad Austral](https://www.austral.edu.ar). \
 &nbsp;&nbsp;&nbsp; :seedling: &nbsp;I love maths, programming and statistics.\
