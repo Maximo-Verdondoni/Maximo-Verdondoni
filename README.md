@@ -25,14 +25,16 @@
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)\
-![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+
+
+
+
 
 <!-- 
 Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate. 
@@ -60,18 +62,22 @@ Kubernates, puppet, github actions
 python, c, cpp, arduino
 php, photoshop
 blockchain, cryptocurrencies, cryptography, bitcoin, ethereum 
--->
+
 
 <details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <summary><b>:brain: &nbsp;Other knowledge</b></summary>
   <br/>
 
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+
 
 </details>
 
+<!-- 
+ESTADISTICAS A CAMBIAR!
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
@@ -85,13 +91,9 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 <hr/>
 
-<p align="center">
- <a href="https://ko-fi.com/X8X48056Q">
-   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
- </a>
-</p>
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
 </p>
+-->
