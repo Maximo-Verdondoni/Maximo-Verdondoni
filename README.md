@@ -3,11 +3,11 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently studying Data Science in [Universidad Austral](https://www.austral.edu.ar). \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;I love maths, programming and statistics.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and machine learning algorithms.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, development, and quality.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2020.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Argentina .
+&nbsp;&nbsp;&nbsp; :seedling: &nbsp;I love maths, programming and statistics.\
+&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate with problem solving and machine learning algorithms.\
+&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Currently researching software architecture, development, and quality.\
+&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Coding since 2020.\
+&nbsp;&nbsp;&nbsp; :family_man_woman_girl_girl: &nbsp;Living in Argentina .
 
 <p align="center">
   <a href="mailto:maxiverdondo04@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
