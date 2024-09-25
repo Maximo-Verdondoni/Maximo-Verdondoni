@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate with problem solving and machine learning algorithms.\
 &nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Currently learning and specializing in automated learning models.\
 &nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Coding since 2020.\
-&nbsp;&nbsp;&nbsp; :family_man_woman_girl_girl: &nbsp;Living in Argentina .
+&nbsp;&nbsp;&nbsp; :family_man_woman_girl_girl: &nbsp;Living in Argentina.
 
 <p align="center">
   <a href="mailto:maxiverdondo04@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-  <summary><b> 🤓: &nbsp;Currently learning</b></summary>
+  <summary><b>🤓 &nbsp;Currently learning</b></summary>
   <br/>
 
   <a href="https://skillicons.dev">
