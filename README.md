@@ -6,7 +6,6 @@
   Hi, I'm Maximo Verdondoni
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
----
 
 - 👨‍💻 Data Scientist and Machine Learning Enthusiast
 - 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
