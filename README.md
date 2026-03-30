@@ -42,7 +42,6 @@
 </div>
 
 ---
+README Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
 
 <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
-
-README Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
