@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-  <strong>Data Science Student (GPA 9.67) | Machine Learning & End-to-End Data Pipelines</strong><br>
+  <strong>Data Science Student | Machine Learning & End-to-End Data Pipelines</strong><br>
   Rosario, Argentina 🇦🇷
 </p>
 
