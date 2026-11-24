@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-  <strong>Data Science Student | Machine Learning & End-to-End Data Pipelines</strong><br>
+  <strong>Data Scientist | Machine Learning & End-to-End Data Pipelines</strong><br>
   Rosario, Argentina 🇦🇷
 </p>
 
@@ -32,11 +32,11 @@
 
 | Project | Highlight & Impact | Core Stack |
 | :--- | :--- | :--- |
-| **[Ford Ranger Churn Prediction](Link)** | 🥇 **1st Place – Ford Innovation Challenge III.** Modular monthly scoring pipeline (leakage-free) over 60k+ vehicles, achieving a **1.86x Lift** on 2nd service retention. | `Python` `LightGBM` `SHAP` `Pytest` |
-| **[World Cup 2026 Match Recommender](Link)** | 🥉 **3rd Place – Universidad Austral.** Deterministic recommender prioritizing 72 group-stage matches using ELO ratings, market values, and PCA. | `Python` `Web Scraping` `PCA` |
-| **[Accommodation Segmentation (Despegar)](Link)** | Unsupervised ML clustering and Data Storytelling on accommodation datasets, presented directly to Despegar's Data team. | `Python` `Scikit-learn` `Seaborn` |
-| **[EcoBottle Data Warehouse & BI](Link)** | End-to-end ETL pipeline transforming OLTP data into a dimensional OLAP **Star Schema** ready for executive reporting. | `Python` `Pandas` `ETL` `Power BI` |
-| **[Real-Time Salary Estimator (PwC Challenge)](Link)** | Regression model validated via cross-validation & bootstrap, deployed as an interactive real-time REST API. | `Python` `Scikit-learn` `FastAPI` |
+| **Ford Ranger Churn Prediction** | 🥇 **1st Place – Ford Innovation Challenge III.** Modular monthly scoring pipeline (leakage-free) over 60k+ vehicles, achieving a **1.86x Lift** on 2nd service retention. | `Python` `LightGBM` `SHAP` `Pytest` |
+| **[World Cup 2026 Match Recommender](https://github.com/Maximo-Verdondoni/Recomendation-System-WorldCup2026)** | 🥉 **3rd Place – Universidad Austral.** Deterministic recommender prioritizing 72 group-stage matches using ELO ratings, market values, and PCA. | `Python` `Web Scraping` `PCA` |
+| **Accommodation Segmentation (Despegar)** | Unsupervised ML clustering and Data Storytelling on accommodation datasets, presented directly to Despegar's Data team. | `Python` `Scikit-learn` `Seaborn` |
+| **[EcoBottle Data Warehouse & BI](https://github.com/Maximo-Verdondoni/EcoBottle-DW-Project)** | End-to-end ETL pipeline transforming OLTP data into a dimensional OLAP **Star Schema** ready for executive reporting. | `Python` `Pandas` `ETL` `Power BI` |
+| **[Real-Time Salary Estimator (PwC Challenge)](https://github.com/Maximo-Verdondoni/ChallengePwC)** | Regression model validated via cross-validation & bootstrap, deployed as an interactive real-time REST API. | `Python` `Scikit-learn` `FastAPI` |
 
 ---
 
