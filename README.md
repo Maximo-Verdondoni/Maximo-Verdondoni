@@ -23,7 +23,7 @@
 
 - 🎓 Pursuing a **B.S. in Data Science** at *Universidad Austral* (GPA: **9.67/10**).
 - 🏆 **1st Place** at the *Ford Innovation Challenge III* (Ford Argentina) & **3rd Place** at *"Tu tiempo, tu Mundial"* (Universidad Austral).
-- ⚙️ Focused on building **leakage-free ML pipelines**, interpretable predictive models, REST API deployments, and end-to-end BI architectures.
+- ⚙️ Focused on building **ML pipelines**, interpretable predictive models, REST API deployments, and end-to-end BI architectures.
 - 📚 Certified by **MITx** in *Machine Learning with Python (6.86x)* and *Probability – The Science of Uncertainty and Data (6.431x)*.
 
 ---
